@@ -21,10 +21,10 @@
 
 ## 使用方法 / Usage
 
-*SteamTools: https://www.steamtools.net/
+*  SteamTools: https://www.steamtools.net/
 
-*OpenSteamTool: https://github.com/OpenSteam001/OpenSteamTool/releases
+*  OpenSteamTool: https://github.com/OpenSteam001/OpenSteamTool/releases
 
-*压缩包里的'.lua'文件和manifest文件(非必要)，需要搭配SteamTools或OpenSteamTool使用，我不在此多做介绍
+*  压缩包里的'.lua'文件和manifest文件(非必要)，需要搭配SteamTools或OpenSteamTool使用，我不在此多做介绍
 
-*The '.lua' file and manifest file (optional) ，they can be used through SteamTools or OpenSteamTool, I won't go into further details here.
+*  The '.lua' file and manifest file (optional) ，they can be used through SteamTools or OpenSteamTool, I won't go into further details here.
