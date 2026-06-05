@@ -1,7 +1,7 @@
 # 注意事项 / Notes
 
 >[!NOTE]
->This repository is a fork of the SSMGAlt/ManifestHub2--->> A complete fork of the original ManifestHub database, which got deleted on GitHub
+>This repository is a fork of the SSMGAlt/ManifestHub2->>A complete fork of the original ManifestHub database, which got deleted on GitHub
 >
 >I will update some ".lua" files of the Steam's new games every week, but not every new game.
 
