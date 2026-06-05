@@ -15,7 +15,7 @@
 ### 3.下载压缩包文件 / Download the zip file
 *   点击打开你在第二步找到的分支，点击Code，下载压缩包
 *   Click on the branch you found in the second step, click on "Code", and download the zip file
-### 4.图片 / picture
+### 4.图片 / Picture
 * <img width="1537" height="757" alt="GitHub清单库" src="https://github.com/user-attachments/assets/4dfb10c1-65d8-44f0-ad18-80b5425a1d59" />
 
 
